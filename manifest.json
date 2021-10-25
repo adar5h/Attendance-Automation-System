@@ -57,3 +57,20 @@
 
 
 
+{   "manifest_version": 2,
+    "name": " Attendance-Automation-Google-Meet",
+    "version": "1",
+    "description": "Now Easy And Quick Attendance with Attendance-Automation-Google-Meet",
+    "icons":{
+        "16":"",
+        "32":"",
+        "48":"",
+        "128":""
+    },
+    "browser_action":{},
+    "web_accessible_resources":[],
+    "background": {},
+    "content_scripts": [],
+    "permissions":[]
+
+}
