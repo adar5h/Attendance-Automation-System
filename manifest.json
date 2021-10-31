@@ -2,7 +2,7 @@
 {
     "name": "Attendance for Google Meet™",
     "version": "1.0",
-    "description": "Records Google Meet™ attendance and exports to Google Sheets™.",
+    "description": "Now Take Easy And Quick Attendance with Attendance-Automation-Google-Meet",
     "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgu3DFNTJ4W9qEZwA4GjeTn4kj0dXRooOfJdu6BAv041ZWGAx6Nowcj7cd9K4JfCzOGlNpMkXaWX8pXQD004n7oeg2AKqbgO7cKo2EDgLKYKDy+Uq/Mjb/bS8sQaa6kzTVhP8tJg19/DR01EJ0/Y8//2I6OnnhskWMhIZNt2bUGQTG9Pk/i5cRcGNcW1pkv6quTU+n49lU969guaRyK8ER5BUBn1qLzv6g61LDubtYkWAuxkx7KEBUtByGpAeh/xk7aQtuSEEBjhagwfL+aXYRVeecH732gRWzP9yepE8ZHJYNdMfsSq2Pg/KSgj83KO2rZhxGI0RgsIJPOMThh5+hwIDAQAB",
     "web_accessible_resources": [
         "fonts/*",
@@ -53,24 +53,4 @@
         "128": "img/icons/icon128.png"
     },
     "manifest_version": 2
-}
-
-
-
-{   "manifest_version": 2,
-    "name": " Attendance-Automation-Google-Meet",
-    "version": "1",
-    "description": "Now Easy And Quick Attendance with Attendance-Automation-Google-Meet",
-    "icons":{
-        "16":"",
-        "32":"",
-        "48":"",
-        "128":""
-    },
-    "browser_action":{},
-    "web_accessible_resources":[],
-    "background": {},
-    "content_scripts": [],
-    "permissions":[]
-
 }
